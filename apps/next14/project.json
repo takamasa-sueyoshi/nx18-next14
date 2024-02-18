@@ -1,0 +1,8 @@
+{
+  "name": "next14",
+  "$schema": "../../node_modules/nx/schemas/project-schema.json",
+  "sourceRoot": "apps/next14",
+  "projectType": "application",
+  "targets": {},
+  "tags": []
+}
